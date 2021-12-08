@@ -70,7 +70,7 @@ $(document).ready(function () {
         if ($(this).scrollTop() > 450) {
             $(".innerline.first").css({ "width": "100%", "transition": "1.3s ease" })
             $(".innerline.secondl").css({ "width": "90%", "transition": "1.3s ease" })
-            $(".innerline.third").css({ "width": "75%", "transition": "1.3s ease" })
+            $(".innerline.third").css({ "width": "90%", "transition": "1.3s ease" })
             $(".innerline.four").css({ "width": "70%", "transition": "1.3s ease" })
             $(".innerline.five").css({ "width": "80%", "transition": "1.3s ease" })
         }
