@@ -54,8 +54,7 @@ $(document).ready(function () {
     $(".static li a").mouseleave(function () {
         clearli();
     })
-    // ripples------------------------------------------------------
-    $(".head").ripples({ dropRadius: 23, resolution: 1000, perturbance: 0.01, });
+    
     //round click-----------------------------------------------------
     $(".round").click(function () {
         $("html,body").animate({ scrollTop: 732 }, 1000)
