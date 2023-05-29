@@ -856,7 +856,10 @@ nav .liline {
 
   .parts2 {
     padding-top: 15%; }
-
+ .parts4 .information{
+    width:100%;
+    padding:5px;
+  }
   .parts4 .information .skills .skillsarea .skillsText a {
     font-size: 15px; }
   .parts4 .information .skills .skillsarea .skillsHead {
