@@ -734,6 +734,11 @@ p{  font-size: 20px;
 	.conpad{padding-left:0px;.marg{margin-right:0px;margin-left:-16px;.owl_theme{width:330px;
 	.slide_owl .slide_image .item .botlight { padding-right: 55px;}}}}.lricons{.left{margin-top:10%;}.right{margin-top:10%;}}  
             }
-    .parts4 {.information{ .skills {.skillsarea{padding-left:0px;.skillsText{font-size:12px;margin-left:2px;
+	.parts4 {
+		.information{ 
+			width:100%;
+			padding:5px;
+			.skills 
+			{.skillsarea{padding-left:0px;.skillsText{font-size:12px;margin-left:2px;
     a{font-size:12px;}} .skillsHead {margin-left:2px;}}}}}
 }
